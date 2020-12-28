@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/H/A_Section'
+  s.homepage         = 'https://github.com/LiHe0308/A_Section'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'H' => 'lihe@koolearn.com' }
-  s.source           = { :git => 'https://github.com/H/A_Section.git', :tag => s.version.to_s }
+  s.source           = { :git => 'git@github.com:LiHe0308/A_Section.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '9.0'
